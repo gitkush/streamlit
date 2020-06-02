@@ -1,4 +1,1 @@
 streamlit
-pydeck
-matplotlib
-plotly
